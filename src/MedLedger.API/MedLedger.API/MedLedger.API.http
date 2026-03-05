@@ -1,0 +1,6 @@
+@MedLedger.API_HostAddress = http://localhost:5047
+
+GET {{MedLedger.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
